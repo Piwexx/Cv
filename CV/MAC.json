@@ -1,0 +1,125 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan Ignacio",
+      "surnames": "Vigario Pereira ",
+      "title": "Hola soy Juan! Frontend developer ",
+      "description": "Proximamanete",
+      "location": {
+        "country": "Argentina"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/Piwexx"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/juanignaciovigario/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Coderhouse"
+        },
+        "roles": [
+          {
+            "name": "CoderHouse",
+            "startDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": "Tutor del curso de Javascript "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Raona "
+        },
+        "roles": [
+          {
+            "name": "Web developer",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "Cliente  Grupo Louis-Dreyfus (LDC)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/juanignaciovigario/"
+        }
+      ]
+    }
+  }
+}

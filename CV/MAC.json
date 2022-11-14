@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,8 +15,7 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/a6c927fe-0d68-4c14-bed6-a7503f8cc166_1628548688465.jpg"
       },
       "location": {
-        "country": "Argentina",
-        "notes": "Autocompleted using Google Maps API"
+        "country": "Argentina"
       }
     },
     "relevantLinks": [
@@ -108,12 +107,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -272,6 +269,17 @@
         "institution": {
           "name": "Centro de e-Learning UTN FRBA"
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Comercio internacional ",
+        "startDate": "2014-03-01",
+        "finishDate": "2016-03-01",
+        "institution": {
+          "name": "Siglo XXI",
+          "description": "Abandonada"
+        }
       }
     ]
   },
@@ -308,7 +316,6 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }

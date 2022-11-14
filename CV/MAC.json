@@ -1,17 +1,18 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Juan Ignacio",
       "surnames": "Vigario Pereira ",
-      "title": "Hola soy Juan! Frontend developer ",
+      "title": "Software developer ",
       "description": "Proximamanete",
       "location": {
-        "country": "Argentina"
+        "country": "Argentina",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -64,7 +65,8 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -120,6 +122,7 @@
           "URL": "https://www.linkedin.com/in/juanignaciovigario/"
         }
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }

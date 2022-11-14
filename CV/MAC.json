@@ -120,6 +120,15 @@
         "institution": {
           "name": "Universidad Nacional de San Luis"
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Diseño de interacciones",
+        "startDate": "2017-10-01",
+        "institution": {
+          "name": "Centro de e-Learning UTN FRBA"
+        }
       }
     ]
   },

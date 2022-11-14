@@ -113,6 +113,38 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Backend ",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "Coderhouse",
+          "URL": "https://www.coderhouse.com/certificados/63110c4644526a00194c4581"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Mongoose",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Tecnico en desarrollo web ",

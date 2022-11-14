@@ -273,12 +273,11 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Comercio internacional ",
+        "name": "Licenciatura  Comercio internacional (Abandonada)",
         "startDate": "2014-03-01",
         "finishDate": "2016-03-01",
         "institution": {
-          "name": "Siglo XXI",
-          "description": "Abandonada"
+          "name": "Siglo XXI"
         }
       }
     ]

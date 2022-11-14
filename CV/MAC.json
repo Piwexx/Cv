@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,8 +11,7 @@
       "title": "Software developer ",
       "description": "Proximamanete",
       "location": {
-        "country": "Argentina",
-        "notes": "Autocompleted using Google Maps API"
+        "country": "Argentina"
       }
     },
     "relevantLinks": [
@@ -65,8 +64,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       }
     ],
     "hardSkills": [
@@ -112,6 +110,17 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Tecnico en desarrollo web ",
+        "startDate": "2021-12-01",
+        "institution": {
+          "name": "Universidad Nacional de San Luis"
+        }
+      }
     ]
   },
   "careerPreferences": {
@@ -122,7 +131,6 @@
           "URL": "https://www.linkedin.com/in/juanignaciovigario/"
         }
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }

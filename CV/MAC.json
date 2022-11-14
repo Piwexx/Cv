@@ -144,6 +144,22 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
+        "name": "Javascript",
+        "startDate": "2021-05-01",
+        "institution": {
+          "name": "Coderhouse",
+          "URL": "https://www.coderhouse.com/certificados/60c977e66d781c0011acfdad"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
         "name": "Diseño de interacciones",
         "startDate": "2017-10-01",
         "institution": {

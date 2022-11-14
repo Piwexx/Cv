@@ -269,10 +269,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Express",
-          "type": "technology"
-        },
-        {
           "name": "Go",
           "type": "technology"
         },
@@ -282,10 +278,6 @@
         },
         {
           "name": "JavaScript",
-          "type": "technology"
-        },
-        {
-          "name": "NodeJS",
           "type": "technology"
         },
         {

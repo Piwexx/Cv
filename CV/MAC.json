@@ -124,6 +124,22 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
+        "name": "React Js",
+        "startDate": "2021-11-01",
+        "institution": {
+          "name": "Coderhouse",
+          "URL": "https://www.coderhouse.com/certificados/61b56bd3876ec9006e7c0f2e"
+        },
+        "linkedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
         "name": "Desarrollo web ",
         "startDate": "2021-05-01",
         "institution": {

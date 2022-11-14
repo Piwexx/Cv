@@ -201,15 +201,6 @@
         ]
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Tecnico en desarrollo web ",
-        "startDate": "2021-12-01",
-        "institution": {
-          "name": "Universidad Nacional de San Luis"
-        }
-      },
-      {
         "studyType": "unaccredited",
         "degreeAchieved": false,
         "name": "React Js",
@@ -268,6 +259,16 @@
         "startDate": "2017-10-01",
         "institution": {
           "name": "Centro de e-Learning UTN FRBA"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Tecnico en desarrollo web ",
+        "startDate": "2018-03-01",
+        "finishDate": "2021-12-01",
+        "institution": {
+          "name": "Universidad Nacional de San Luis"
         }
       },
       {

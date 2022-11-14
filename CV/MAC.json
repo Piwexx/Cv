@@ -23,6 +23,19 @@
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/juanignaciovigario/"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "Full stack open ",
+        "type": "other",
+        "URL": "https://fullstackopen.com/en/",
+        "authors": [
+          {
+            "title": "Author"
+          }
+        ],
+        "summary": "Curso full stack js "
+      }
     ]
   },
   "experience": {

@@ -26,6 +26,17 @@
     ],
     "recommendations": [
       {
+        "title": "Building AI",
+        "type": "other",
+        "URL": "https://buildingai.elementsofai.com/",
+        "authors": [
+          {
+            "title": "Author"
+          }
+        ],
+        "summary": "Curso Building AI"
+      },
+      {
         "title": "Elements of AI",
         "type": "other",
         "URL": "https://course.elementsofai.com/es/",

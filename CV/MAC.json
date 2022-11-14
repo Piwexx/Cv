@@ -26,6 +26,17 @@
     ],
     "recommendations": [
       {
+        "title": "Elements of AI",
+        "type": "other",
+        "URL": "https://course.elementsofai.com/es/",
+        "authors": [
+          {
+            "title": "Author"
+          }
+        ],
+        "summary": "Curso introducción a AI "
+      },
+      {
         "title": "Full stack open ",
         "type": "other",
         "URL": "https://fullstackopen.com/en/",
